@@ -2,6 +2,11 @@
 
 internal class Shay
 {
+    public string Greet()
+    {
+        return "Good day to you!";
+    }
+
     public List<int> PickWinners()
     {
         Random randomNumberGenerator = new Random();

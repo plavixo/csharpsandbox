@@ -1,6 +1,22 @@
 ﻿namespace Runner
 {
+
+
+
+
+
+
+
+
     delegate List<int> WayOfDeterminingLotteryNumbers();
+
+
+
+
+
+
+
+
 
     /*
      * Notice that we declare a delegate at the same level as we declare a class or enum etc;
